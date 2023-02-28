@@ -76,7 +76,7 @@ All of this just to have fireflies, man.
 body {
   background-image: url(images/black-forest.jpg);
   background-size: auto;
-  background-repeat: auto-flow;
+  background-repeat: auto;
 }
 
 .firefly {
